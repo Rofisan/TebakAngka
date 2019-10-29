@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1569199387 source:f:\cpp projects\tebakkata\main.cpp
+	<iostream>
+	<ctime>
+	<stdlib.h>
+
+1572313477 source:e:\semester 7\game_programming\02 tebakangka\main.cpp
+	<iostream>
+	<ctime>
+	<stdlib.h>
+
